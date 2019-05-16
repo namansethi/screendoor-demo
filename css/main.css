@@ -3404,16 +3404,10 @@ margin-top: 10px;
   padding-bottom: 20px;
 }
 
-#prototype-preview {
+#prototype-img {
   margin-bottom: 140px;
   max-width: 1140px !important;
   box-shadow: 7px 7px 30px -5px rgba(0,0,0,0.1);
-}
-
-#prototype-frame {
-  display: none;
-  box-shadow: 7px 7px 30px -5px rgba(0,0,0,0.1);
-  margin-bottom: 70px;
 }
 
 #django-image {
